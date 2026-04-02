@@ -132,6 +132,3 @@ This project demonstrates:
 ## Author
 
 Harshit Sharma
-
-* Create a **simple architecture diagram**
-* Or help you write a **strong project description for resume**
