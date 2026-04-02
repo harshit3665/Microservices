@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: quiz-service
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/quiz_db
+    username: sysquare
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
